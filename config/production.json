@@ -1,0 +1,16 @@
+{
+  "server": {
+    "port": 6000
+  },
+  "nlp":{
+    "platform":"Humonics",
+    "version":"v1"
+  },
+  "mongodb" : {
+    "host": "localhost",
+  "port": 27017,
+  "url": "mongodb://127.0.0.1:27017/indostar_IVR",
+  "url1": "mongodb://3.6.227.86:27017/indostar_IVR",
+  "useUnifiedTopology": true
+  }
+}

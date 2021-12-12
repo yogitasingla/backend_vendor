@@ -1,0 +1,19 @@
+{
+  "server": {
+    "port": 6004
+  },
+  "nlp":{
+    "platform":"dukkan",
+    "version":"v1"
+  },
+  "mongodb" : {
+    "host": "localhost",
+  "port": 27017,
+ 
+  "url": "mongodb://127.0.0.1:27017/vendor",
+  
+ 
+
+   "useUnifiedTopology": true
+  }
+}
